@@ -1,17 +1,39 @@
-[
-  {
-    "mode": "default",
-    "bgcolor": "#FFD54F",
-    "title": "JOIN OUR COMMUNITY SERVER",
-    "titlecolor": "#000000",
-    "subtitle": "Join Discord",
-    "subtitlecolor": "#5C4C00",
-    "image": "110267765320664"
-  },
-  {
-    "mode": "image",
-    "image": "110267765320664",
-    "title": "NEW LIMITED RELEASED",
-    "titlecolor": "#7D3DFD"
-  }
-]
+{
+  "news": [
+    {
+      "mode": "default",
+      "bgcolor": "#FFD54F",
+      "title": "JOIN OUR COMMUNITY SERVER",
+      "titlecolor": "#000000",
+      "subtitle": "Join Discord",
+      "subtitlecolor": "#5C4C00",
+      "image": "18493291031"
+    },
+    {
+      "mode": "image",
+      "image": "18493291032",
+      "title": "NEW LIMITED RELEASED",
+      "titlecolor": "#7D3DFD"
+    }
+  ],
+  "update": [
+    {
+      "mode": "default",
+      "bgcolor": "#C8E6C9",
+      "title": "PATCH 1.2",
+      "titlecolor": "#1B5E20",
+      "subtitle": "Fixed teleport bug & improved performance",
+      "subtitlecolor": "#33691E",
+      "image": "18493291031"
+    },
+    {
+      "mode": "default",
+      "bgcolor": "#FFCC80",
+      "title": "EVENT UPDATE!",
+      "titlecolor": "#E65100",
+      "subtitle": "New Halloween event released!",
+      "subtitlecolor": "#4E342E",
+      "image": "18493291032"
+    }
+  ]
+}
