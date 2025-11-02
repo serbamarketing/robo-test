@@ -1,14 +1,17 @@
 [
   {
+    "mode": "default",
+    "bgcolor": "#FFD54F",
     "title": "JOIN OUR COMMUNITY SERVER",
+    "titlecolor": "#000000",
     "subtitle": "Join Discord",
-    "image": "110267765320664",
-    "color": "#FFD54F"
+    "subtitlecolor": "#5C4C00",
+    "image": "110267765320664"
   },
   {
-    "title": "NEW LIMITED ITEM!",
-    "subtitle": "Only for this week!",
+    "mode": "image",
     "image": "110267765320664",
-    "color": "#FF7043"
+    "title": "NEW LIMITED RELEASED",
+    "titlecolor": "#7D3DFD"
   }
 ]
